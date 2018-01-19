@@ -52,13 +52,6 @@ function makeInt(n) {
 }
 
 
-function makeInt(n){
-  
-  
-parseInt("wea", 10);
-
-return n
-}
 
 
 
